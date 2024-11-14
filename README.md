@@ -4,6 +4,7 @@ Sesuaikan file .env dengan kebutuhan lokal, jika tidak ada, copy dari .env.examp
 Jalankan perintah berikut:
 - composer install
 - npm install
+- php artisan key:generate
 - php artisan migrate
 - php artisan db:seed
 - npm run dev
